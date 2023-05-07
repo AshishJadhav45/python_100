@@ -5,3 +5,5 @@ print("the vlaue of ", a , "+" , b , "is =", a+b)
 print("the vlaue of ", a , "-" , b , "is =", a-b)
 print("the vlaue of ", a , "*" , b , "is =", a*b)
 print("the vlaue of ", a , "/" , b , "is =", a/b)
+
+
