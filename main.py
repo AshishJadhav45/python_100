@@ -22,4 +22,4 @@ for anonymous in morphine:
 print(len(morphine))
 
 a = "harry"
-print(a[-4:-2])
+pri(a[-4:-2])
