@@ -11,5 +11,3 @@ mats1=[[1,2,3],[4,5,6],[7,8,9]]
 mats2=[[1,2,3],[4,5,6],[7,8,9]]
 result=mat(mats1,mats2)
 print(result)
-
-    
