@@ -16,3 +16,4 @@ for index , s in enumerate(s):
 color = ["red","pink","yellow","black"]
 for index, color in enumerate(color):
     print(index,color)
+
